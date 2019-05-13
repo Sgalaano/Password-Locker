@@ -32,12 +32,7 @@ As a user ;
  To run the app use this in your terminal ;
  clone the repository ;
  open directory of the app in the terminal
-
-
-
- #Testing the Applicatin 
- For testing the application ;
-
+ run "python3.6 run.py"
 
 
  #Licence 
