@@ -11,7 +11,7 @@ It can store various accounts like your twitter, Ig, Facebook account and other 
 As a user ;
  - I'd like to log in in my accounts
  - Store my various accounts 
- - Genarate a new password
+ - Genarate a new password.
 
 ### BDD
 | Behaviour                        | Input                          | Output                                 |
