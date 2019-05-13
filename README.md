@@ -1,7 +1,7 @@
 # PASSWORD LOCKER 
 
 #### Built by 
-Galaano Suleiman
+Galaano Suleiman.
 
 ## Description
 Password locker is a python application run by the terminal that allows a user to store their personal details like the password, username, name and even email.
