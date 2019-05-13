@@ -17,7 +17,7 @@ As a user ;
 | Behaviour                        | Input                          | Output                                 |
 | :--------------------------------| :------------------------------|:---------------------------------------|
 | Accepts correct login credentials| User name & password           | Welcome 'Username'                     | 
-| Choose option                    | Select one of the options      | Enable feature for that option         |
+| Choose option.                    | Select one of the options      | Enable feature for that option         |
 | Generate password.              | Select password generate option| New password                           |
 | Exit app.                        | Select exit choice             | App closes                             |
 
