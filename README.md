@@ -5,7 +5,7 @@ Galaano Suleiman
 
 ## Description
 Password locker is a python application run by the terminal that allows a user to store their personal details like the password, username, name and even email.
-It can store various accounts like your  Ig, Facebook account and other various accounts.
+It can store various accounts like your twitter, Ig, Facebook account and other various accounts.
 
 ## USER STORIES 
 As a user ;
