@@ -76,7 +76,7 @@ def Galaano():
           print("New user: " + username + " created.")
           print("*****Choose log in this time.*****")
           save_user(create_user(username,password1)) 
-          Galaano1()
+          Galaano()
         else:
           print("Sorry passwords don't match.")  
           Galaano1()
