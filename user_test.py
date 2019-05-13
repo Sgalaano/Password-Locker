@@ -39,7 +39,7 @@ class TestUser(unittest.TestCase):
         objects to our user_list
         '''
         self.new_user.save_user() 
-        test_user = User("qwerty","mmmmmm") 
+        test_user = User("facebook","ffffff") 
         test_user.save_user()
         self.assertEqual(len(User.user_list),2)
     
