@@ -29,7 +29,7 @@ As a user ;
  - Pyperclip
 
  # Running the application
- To run the app use this in your terminal ;
+ To run the app use this in your terminal ; https://github.com/Sgalaano/Password-Locker.git
  clone the repository ;
  open directory of the app in the terminal
  run "python3.6 run.py"
